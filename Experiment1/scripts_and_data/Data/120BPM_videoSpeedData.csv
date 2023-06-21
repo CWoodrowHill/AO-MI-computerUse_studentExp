@@ -1,0 +1,41 @@
+RT_keyb.keys,simpleRT_trials.thisRepN,simpleRT_trials.thisTrialN,simpleRT_trials.thisN,simpleRT_trials.thisIndex,simpleRT_trials.ran,dur,participant,session,group,date,expName,psychopyVersion,OS,frameRate,instructLoop.thisRepN,instructLoop.thisTrialN,instructLoop.thisN,instructLoop.thisIndex,instructLoop.ran,begInstruct,baseIma,base_w,base_h,backgroundKeys.keys,keyboardPrac1.keys,keyboardPrac1.rt,practice_control.thisRepN,practice_control.thisTrialN,practice_control.thisN,practice_control.thisIndex,practice_control.ran,pracWords,practice_control.order
+,0,0,0,0,1,1,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,,,,,,,,,,,,,,,,,,,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,0,0,0,0,1,"In this experiment, your task will be to type the word that you see on the screen. 
+
+You will see a word for a couple of seconds with a cross. After this you will see ‘Get ready!' appear. This is your prompt to get ready to type. You will then see the same word on the screen. This is when you should start to type.
+
+Press 'enter/return' to go to the next page.",videoAudio/Example_base_layout.png,1.5,0.6,,,,,,,,,,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,0,1,1,1,1,"Type the word as QUICKLY and ACCURATELY as you can. By this we mean, not so fast that you lose accuracy, but also not so accurate that you type very slowly. Try to find a middle ground between the two. Once you have typed the word, press 'enter/return' to submit it. The next word will be displayed immediately.
+
+Press 'enter/return' to go to the next page.
+
+",videoAudio/Example_base_type.png,1.5,0.6,,,,,,,,,,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,0,2,2,2,1," If you make any errors, you can correct these by pressing ‘backspace’ on your keyboard before pressing ‘enter’ - just like if you were typing normally on your computer. Errors are normal so please don’t worry about this. Just try to be as accurate as you can. 
+
+You will have a practice round to get used to the task. Ask the experimenter any questions you have now.
+
+Press 'enter/return' to start the practice when you are ready. ",videoAudio/Example_base_total.png,1.6,0.6,,,,,,,,,,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,,,,,,,,,,,"[""h"",""e"",""i"",""g"",""h"",""t"",""return""]","[2.3308000000007496,2.842599999999635,3.3144000000003757,3.857400000000382,4.3165999999996245,4.8606999999992695,5.340400000000386]",0,0,0,0,1,height,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,,,,,,,,,,,"[""v"",""i"",""s"",""u"",""a"",""l"",""return""]","[0.9964999999999975,1.5179000000003668,1.979800000000722,2.4755999999996163,2.9879999999999995,3.4760999999996045,3.9718000000007407]",0,1,1,4,1,visual,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,,,,,,,,,,,"[""u"",""p"",""d"",""a"",""t"",""e"",""return""]","[0.9961999999992486,1.509900000000357,2.0198000000007426,2.485300000000734,2.988099999999605,3.5044000000003734,3.9598000000007403]",0,2,2,2,1,update,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,,,,,,,,,,,"[""g"",""o"",""l"",""d"",""e"",""n"",""return""]","[1.0284999999999798,1.524000000000001,2.0191000000014867,2.5229000000003623,2.9657000000011067,3.4894999999999925,3.9251000000014926]",0,3,3,3,1,golden,
+,,,,,,,,1,A,2022-04-26_13h25.13.337,ParkinsonsCompExp_HP,2021.1.4,Win32,3.000048001,,,,,,,,,,,"[""r"",""e"",""p"",""l"",""a"",""y"",""return""]","[1.10190000000037,1.5355999999996186,2.078900000000374,2.562199999999251,3.062000000000012,3.5410999999996307,4.004199999999258]",3,0,15,2,1,update,14
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,IKIs,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,height,0.512,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,height,0.471,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,height,0.543,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,height,0.46,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,height,0.544,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,height,0.479,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,visual,0.522,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.462,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.496,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.512,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.488,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.496,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.49875,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,MEAN,0.49875,,,,,,,
